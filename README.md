@@ -9,7 +9,7 @@ Any suggestions and pull requests to improve the program are always welcomed !!!
 Please do 🌟 this repo if you liked it and share it with others.
 
 <br>
-Made with 💙
+Made with 💙 <br>
 Aryan Sood
 
 
