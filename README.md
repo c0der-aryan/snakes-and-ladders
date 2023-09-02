@@ -1,4 +1,4 @@
-<h1>snakes-and-ladders</h1>
+<h1>Snakes🐍 And Ladders🪜</h1>
 
 <h2>Language Used 📝 :</h2> C programming language
 
