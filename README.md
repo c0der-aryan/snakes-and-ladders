@@ -7,7 +7,7 @@ Any suggestions and pull requests to improve the program are always welcomed !!!
 
 <h2>Thank You for Visiting My Repository : </h2>
 Please do 🌟 this repo if you liked it and share it with others.
-
+<br>
 Made with 💙
 Aryan Sood
 
