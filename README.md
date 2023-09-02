@@ -2,7 +2,7 @@
 
 <h2>Language Used 📝 :</h2> C programming language
 
-<h2>Contribution 💡 :</h2> 
+<h2>Suggestions 💡 :</h2> 
 Any suggestions and pull requests to improve the program are always welcomed !!!
 
 <h2>Thank You for Visiting My Repository : </h2>
