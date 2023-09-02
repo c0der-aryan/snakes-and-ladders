@@ -1,6 +1,6 @@
 <h1>snakes-and-ladders</h1>
 
-<h2>Language Used 📝 :</h2> C 
+<h2>Language Used 📝 :</h2> C programming language
 
 <h2>Contribution 💡 :</h2> 
 Any suggestions and pull requests to improve the program are always welcomed !!!
